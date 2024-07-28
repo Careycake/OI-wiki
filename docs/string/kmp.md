@@ -1,4 +1,4 @@
-author: Ir1d, LeoJacob, Xeonacid, greyqz, StudyingFather, Marcythm, minghu6, Backl1ght
+author: Ir1d, LeoJacob, Xeonacid, greyqz, StudyingFather, Marcythm, minghu6, Backl1ght, Careycake
 
 ## 字符串前缀和后缀定义
 
@@ -43,7 +43,7 @@ $\pi[5]=3$，因为 `abcabc` 相等的真前缀和真后缀只有 `abc`，长度
 
 $\pi[6]=0$，因为 `abcabcd` 无相等的真前缀和真后缀
 
-同理可以计算字符串 `aabaaab` 的前缀函数为 $[0, 1, 0, 1, 2, 2, 3]$。
+同理可以计算字符串 `aabaaab` 的前缀函数为 $[0, 0, 0, 1, 2, 2, 3]$。
 
 ## 计算前缀函数的朴素算法
 
